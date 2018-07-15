@@ -1,0 +1,2 @@
+# Prohlížeč Mtg karet od určitého autora
+Program slouží k prohlížení Mtg karet ilustrovaných určitým autorem. Obrázky karet se nalézají na http://gatherer.wizards.com, kde je program hledá prostřednictvím web scrappingu.
